@@ -256,7 +256,7 @@ void turnRight(){
 }
 
 void turnLeft(){ 
-  
+
   // Right side motors 
   digitalWrite(motorIn4, HIGH);
   digitalWrite(motorIn3, LOW);
