@@ -9,5 +9,7 @@ The robot car and its controller were created using an Arduino Uno and Arduino N
 The gear motors were controlled using an L298N motor driver.
 The wireless communication was facilitated using NRF24L01 modules. 
 
+![Roam Rover with Controller](/RoamRoverWithController.heic)
+
 Circuit diagrams and video demos for the project can be viewed here: 
 https://drive.google.com/drive/folders/1YqKe5KLkxImnVCzbS5U3r7v55ugd9V1C?usp=share_link
